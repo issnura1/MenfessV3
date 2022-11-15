@@ -5,7 +5,7 @@
 var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam) => {
-return`━━━❲ 𝙂𝙐𝙍𝘽𝙊𝙏-𝙈𝘿 ❳━━━
+return`━━━❲ NuraBot ❳━━━
 ┏━━━━━━━━━━━━━
 ┣━( 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 )
 ┃▤ ID : @${sender.split('@')[0]}
@@ -724,12 +724,12 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment Ovo*
-Number: 085789004732
-A/N: LEXXY STORE
+Number: -
+A/N: -
 
 *Payment Dana*
 Number: 085789004732
-A/N: LEXXY OFFICIAL
+A/N: M••• N•• D• A••
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -740,17 +740,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lexxy Official
+ • *Nama:* Nura is?
  • *Umur:* 18 tahun
- • *Hoby:* Turu/Game
- • *Askot:* Palembang
+ • *Hoby:* Mencari Jati Diri
+ • *Askot:* Another Univers
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 083834558105
- • *Youtube:* Lexxy Official
- • *Github:* Lexxy24
+ • *Whatsapp:* 085861059562
+ • *Youtube:* -
+ • *Github:* issnura1
  `
 }
